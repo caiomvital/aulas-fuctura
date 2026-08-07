@@ -1,0 +1,10 @@
+Nome: ___________
+CPF: ______________
+Data de Nascimento: ____________
+Endereço: ____________
+ID -> 00001
+NOME_CLIENTE -> Nome
+CPF_CLIENTE -> CPF
+NASC_CLIENTE -> Data de Nascimento
+ENDR_CLIENTE -> Endereco
+ID -> 00001

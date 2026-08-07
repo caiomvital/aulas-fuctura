@@ -1,0 +1,8 @@
+with open("lista.txt", "r") as arquivo:
+    for linha in arquivo:
+        lista.append(linha.strip())
+
+# salvar
+with open("lista.txt", "w") as arquivo:
+    for item in lista:
+        arquivo.write(item + "\n")

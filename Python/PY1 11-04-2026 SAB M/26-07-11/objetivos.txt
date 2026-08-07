@@ -1,0 +1,8 @@
+1. Criar uma classe Compra
+2. Criar a função construtora
+3. Toda compra tem que ter uma lista de produtos
+4. Toda compra deve poder calcular o total
+link da classe Produto (da última aula)
+https://www.meupasso.com.br/notas/python-julho/Produto
+
+def __init__(self):
