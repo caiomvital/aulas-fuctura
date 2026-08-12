@@ -1,0 +1,11 @@
+1. Crie uma classe Animal com um método falar() que imprima "Animal falando". Crie uma classe Cachorro que herde de Animal e sobrescreva falar() para imprimir "Au au!".
+
+2. Crie uma classe Veiculo com atributos marca e ano. Crie uma classe Carro que herde de Veiculo e adicione um atributo modelo. Instancie e imprima todos os atributos.
+
+3. Crie uma classe base Pessoa com atributos nome e idade. Crie uma classe Estudante que herde de Pessoa e adicione o atributo curso.
+
+4. Crie uma classe Funcionario que herde de Pessoa e adicione atributo salario. Crie um método aumentar_salario().
+
+5. Implemente um sistema simples de pagamento com classes CartaoCredito e Boleto, ambas com método pagar(valor).
+
+6. Crie uma função que receba uma lista de objetos que implementem pagar(valor) e chame esse método para cada um.

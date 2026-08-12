@@ -31,3 +31,14 @@ class Contato:
         vamos melhorar essa função.
         """
         return f"Nome: {self.nome}\nNúmeros: {', '.join(self.numeros)}"
+
+
+
+
+        """
+        @nome.setter
+    def nome(self, novo_nome):
+        if novo_nome.strip() == "":
+            print("O nome não pode ficar vazio.")
+            return
+        """
