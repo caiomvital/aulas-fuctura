@@ -17,7 +17,7 @@ public class Agenda {
          */
     }
 
-    public void adicionarContato(Contato contato) {
+    public void adicionarContato() {
         /*
          * Adicionar um contato à lista de contatos.
          * Verificar se o contato possui um nome válido.
@@ -25,7 +25,7 @@ public class Agenda {
          */
     }
 
-    public void adicionarCompromisso(Compromisso compromisso) {
+    public void adicionarCompromisso() {
         /*
          * Adicionar um compromisso à lista de compromissos.
          * Verificar se o compromisso possui um contato associado.
@@ -46,7 +46,7 @@ public class Agenda {
         return null;
     }
 
-    public void removerContato(int indice) {
+    public void removerContato() {
         /*
          * Remover um contato da lista utilizando o índice informado.
          * Verificar se o índice é válido.
@@ -55,7 +55,7 @@ public class Agenda {
        */
     }
 
-    public void removerCompromisso(int indice) {
+    public void removerCompromisso() {
         /*
          * Remover um compromisso da lista utilizando o índice informado.
          * Verificar se o índice é válido antes de realizar a remoção.
