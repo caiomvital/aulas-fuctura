@@ -10,7 +10,7 @@ public class Principal {
 		
 		Carro carro1 = new Carro("Honda", "Civic");
 		Moto moto1 = new Moto();
-		carro1.setQtdPortas(-5);
+		carro1.setQtdPortas(4);
 		moto1.setMarca("Honda");
 		moto1.setModelo("Biz");
 		
@@ -18,8 +18,7 @@ public class Principal {
 		controle1.adicionarVeiculo(carro1);
 		controle1.adicionarVeiculo(moto1);
 		controle1.listarVeiculos();
-		System.out.println(carro1.getQtdPortas());
-
+		controle1.listarVeiculos();
 	}
 
 }

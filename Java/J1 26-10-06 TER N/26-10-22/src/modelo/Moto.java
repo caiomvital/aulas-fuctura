@@ -2,7 +2,13 @@ package modelo;
 
 public class Moto extends Veiculo {
 
-	int cilindradas;
+	private int cilindradas;
 	
+	public int getCilindradas() {
+		return cilindradas;
+	}
+	public void setCilindradas(int cilindradas) {
+		this.cilindradas = cilindradas;
+	}
 	
 }
